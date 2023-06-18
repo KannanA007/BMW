@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+nav{
+    background-image: url("images/HD-wallpaper-bmw-headlights-lights-car-dark.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width:100%;
+    opacity:0.7;
+    height:500px;
+    margin-top: 0px;   
+}
+.li-items{
+    position: absolute;
+    right:40px;
+}
+.childs{
+    padding:20px;
+    display:inline-block;
+    list-style-type: none;  
+}
+.left{
+display:inline;
+}
+ ul,p{
+   display:inline;
+   margin-left:50px;
+   color:rgb(232, 229, 229);
+}
+.welcome{
+    padding:100px;
+font-size: 30px;
+    font-style: normal;
+text-align: center;
+}
+figure{
+padding:0;
+margin-left:0px;
+}
+.BMW{
+    width:300px;
+    height:200px;
+  
+}
+.two{
+    width:50%;
+    margin:auto;
+    color:rgb(255, 252, 252);
+    padding:10px;
+}
+label,input{
+    margin:10px;
+}
+a{
+    text-decoration: none;
+    color:white;
+    
+}
+a:visited{
+    color:rgb(252, 164, 164);
+}
